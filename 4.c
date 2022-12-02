@@ -1,3 +1,4 @@
+//this code help you to learn some exampel in c
 #include<stdio.h>
 int main(){
     int n,r,d,s=1,l=0;
