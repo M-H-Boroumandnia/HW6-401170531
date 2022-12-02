@@ -1,3 +1,4 @@
+//this code let you to work with bitwise oprations
 #include<stdio.h>
 int main(){
     unsigned long long int a=0,b,c;
